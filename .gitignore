@@ -1,0 +1,73 @@
+# commands to be ran file
+cmd.txt
+
+# all .log files
+*.log
+
+# ignore all .env files
+*.env
+
+# ignore node files
+/node_modules
+package-lock.json
+
+# ignore dist folder
+/dist
+
+# ignore all database files
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+
+# ignore all shell/cmd/script files
+*.sh
+*.cmd
+*.bat
+*.ps1
+*.zsh
+*.bash
+*.fish
+*.csh
+
+# ignore IDE/editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+*.swp
+*.swo
+*.swn
+
+# ignore OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+*.tmp
+*.temp
+*.~*
+*.bak
+*.old
+*.orig
+*.rej
+*.class
+
+# ignore all executable files
+*.exe
+*.dll
+*.so
+*.dylib
+.dmg
+.app
+*.bin
+*.out
+*.obj
+*.o
+
+# ignore other common files
+*.zip
+/docs
