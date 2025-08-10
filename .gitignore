@@ -1,6 +1,3 @@
-# commands to be ran file
-cmd.txt
-
 # all .log files
 *.log
 
@@ -24,50 +21,4 @@ package-lock.json
 *.sh
 *.cmd
 *.bat
-*.ps1
-*.zsh
-*.bash
-*.fish
-*.csh
 
-# ignore IDE/editor specific files
-.vscode/
-.idea/
-*.sublime-project
-*.sublime-workspace
-*.code-workspace
-*.swp
-*.swo
-*.swn
-
-# ignore OS generated files
-.DS_Store
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-$RECYCLE.BIN/
-*.lnk
-*.tmp
-*.temp
-*.~*
-*.bak
-*.old
-*.orig
-*.rej
-*.class
-
-# ignore all executable files
-*.exe
-*.dll
-*.so
-*.dylib
-.dmg
-.app
-*.bin
-*.out
-*.obj
-*.o
-
-# ignore other common files
-*.zip
-/docs

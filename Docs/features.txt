@@ -1,0 +1,12 @@
+- Profile/User pages
+- Verification system
+- Friend requests + following profiles
+- add, edit, & delete posts
+- upload images
+- add a bio, profile picture, banner image, and favorite song on a profile along with all the other facebook profile features.
+- Direct messages (end to end encrypted)
+- report system
+- Likes, comments & shares
+- Notifications system
+- events, marketplace
+- admin panel for developers & admins

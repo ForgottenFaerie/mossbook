@@ -1,0 +1,33 @@
+Frontend:
+- React.js + Vite
+- Tailwind CSS
+- ShadCN UI (instead of Material UI for full Tailwind compatibility)
+- React Query
+- Zod
+
+Backend:
+- Node.js + Express
+- MongoDB + Mongoose  (Pick Mongo if you want flexibility & JSON structure)
+- Socket.io (for real-time features)
+- Firebase/Auth0
+
+File Storage:
+- Cloudinary
+
+Notifications:
+- Web Push + FCM
+
+Messaging:
+- Use Socket.io with optional encryption (simpler than full Matrix for MVP)
+
+Admin:
+- Custom React-based dashboard
+
+Infrastructure:
+- Vercel (frontend)
+- Render or Railway (backend)
+- Namecheap (domain) + Cloudflare (DNS + security)
+
+Extras:
+- Redis (caching/session)
+- PostHog (analytics)
