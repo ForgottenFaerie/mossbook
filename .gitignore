@@ -8,8 +8,9 @@
 /node_modules
 package-lock.json
 
-# ignore dist folder
+# ignore folder
 /dist
+/data
 
 # ignore all database files
 *.db
@@ -22,3 +23,5 @@ package-lock.json
 *.cmd
 *.bat
 
+# OTHER FILES
+init.php
